@@ -1,5 +1,10 @@
 # About Me:
-🔭 I’m currently working on Ross legal inteligence platform<br>👯 I’m looking to collaborate on AI pipeline reasherch<br>🤝 I’m looking for help with Destributed cumputing for data engieering<br>🌱 I’m currently learning Spark<br>💬 Ask me about AI and Data<br>⚡ Fun fact i like apples
+🔭 I’m currently working on Ross Legal Inteligence Platform<br>
+👯 I’m looking to collaborate on AI Reasherch<br>
+🤝 I’m looking for help with destributed cumputing for data engieering<br>
+🌱 I’m currently learning Spark<br>
+💬 Ask me about AI and Data Engineering<br>
+⚡ Fun fact : i like apples
 
 
 ## Socials:
