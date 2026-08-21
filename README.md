@@ -1,6 +1,6 @@
 # About Me:
-🔭 I’m currently working on Ross Legal Inteligence Platform<br>
-👯 I’m looking to collaborate on AI Reasherch<br>
+🔭 I’m currently working on AI,ML and Data Engineering Projects<br>
+👯 I’m looking to collaborate to projects related to Data Science<br>
 🤝 I’m looking for help with destributed cumputing for data engieering<br>
 🌱 I’m currently learning Spark<br>
 💬 Ask me about AI and Data Engineering<br>
