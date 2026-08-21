@@ -1,5 +1,5 @@
-<div>
-  <img src="https://i.pinimg.com/1200x/10/1a/aa/101aaa51dc72d98c3e20ba0b84481f39.jpg" alt="Frame 1116606749 (1)" width="100%" height="auto" style="max-width: 1077px; width: 100%; height: auto; object-fit: cover; display: block;" />
+<div style="width: 100%; max-width: 1077px; overflow: hidden;">
+  <img src="https://i.pinimg.com/1200x/10/1a/aa/101aaa51dc72d98c3e20ba0b84481f39.jpg" alt="Frame 1116606749 (1)" style="width: 100%; height: 427px; object-fit: cover; display: block;" />
 </div>
 
 <div align="center">
