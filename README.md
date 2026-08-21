@@ -1,5 +1,5 @@
 <div>
-  <img width="1077" height="427" alt="Frame 1116606749 (1)" src="https://i.pinimg.com/1200x/57/68/00/57680023d03559ec45b15a3ac96d8207.jpg" />
+  <img alt="Frame 1116606749 (1)" src="https://i.pinimg.com/1200x/23/90/73/23907352f1fe553a792745882dd79872.jpg" />
 </div>
 
 <div align="center">
